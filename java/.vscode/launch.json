@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "basic_java.loop",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "conditional",
+            "request": "launch",
+            "mainClass": "basic_java.conditional",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "conditionalstatement",
+            "request": "launch",
+            "mainClass": "conditionalstatement",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Innerstudent",
+            "request": "launch",
+            "mainClass": "Innerstudent",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "basic_java.arrays",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "casting",
+            "request": "launch",
+            "mainClass": "basic_java.casting",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "constants",
+            "request": "launch",
+            "mainClass": "basic_java.constants",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "datatypes",
+            "request": "launch",
+            "mainClass": "basic_java.datatypes",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "basic_java.input",
+            "projectName": "java_e4c9a610"
+        },
+        {
+            "type": "java",
+            "name": "mathmax",
+            "request": "launch",
+            "mainClass": "basic_java.mathmax",
+            "projectName": "java_e4c9a610"
+        }
+    ]
+}
